@@ -1,1 +1,17 @@
-0
+2
+R001
+Chicken Stir-Fry
+4
+Chicken Breast
+Bell Peppers
+Soy Sauce
+Rice
+25
+R003
+Pasta Aglio e Olio
+4
+Spaghetti
+Garlic
+Olive Oil
+Red Pepper Flakes
+20
